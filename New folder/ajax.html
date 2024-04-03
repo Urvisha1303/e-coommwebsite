@@ -15,10 +15,9 @@
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         $(document).ready(() => {
-
             $.ajax({
                 url: 'https://fakestoreapi.com/products',
-                // type: 'POST', //"GET"
+                type: "GET",
                 data: {
                     Title: 'Product',
                     price: 13.5,

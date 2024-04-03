@@ -1,0 +1,18 @@
+react js = react js is use for create single page web aplication
+
+jsx: react in html type use (javascript XML)
+XML : Extensible Markup Language
+
+run file path : app.js - index.js - index.html
+
+
+component : two type
+1- function
+2- class
+
+all component work in app.js file
+name first letter capital always
+
+1) function component :
+   rafce : react arrow function component export
+
